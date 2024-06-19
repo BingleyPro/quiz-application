@@ -1,5 +1,5 @@
 // Quiz Application by BingleyPro
-// c# version
+// c# version.
 
 using System;
 using System.Collections.Generic;
